@@ -3,3 +3,4 @@ description: Módulo de autoaprendizaje para desarrollar el estudio de prevalenc
 theme: just-the-docs
 
 nav_enabled: true
+heading_anchors: true

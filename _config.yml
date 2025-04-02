@@ -4,3 +4,4 @@ theme: just-the-docs
 
 nav_enabled: true
 heading_anchors: true
+footer_content: "© 2025 OIIS - Built with Just the Docs"
